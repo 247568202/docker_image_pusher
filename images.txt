@@ -1,3 +1,1 @@
-elasticsearch:8.14.3
-minio/minio:RELEASE.2024-08-03T04-33-23Z
-redis:7.2.4
+mysql:5.7.18

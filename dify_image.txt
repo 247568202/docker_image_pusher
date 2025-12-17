@@ -7,7 +7,7 @@ ghcr.io/chroma-core/chroma:0.5.20
 langgenius/dify-api:1.8.1
 langgenius/dify-plugin-daemon:0.2.0-local
 langgenius/dify-sandbox:0.2.12
-langgenius/dify-web:1.8.1
+langgenius/dify-web:1.11.1
 langgenius/qdrant:v1.7.3
 matrixorigin/matrixone:2.1.1
 milvusdb/milvus:v2.5.15
